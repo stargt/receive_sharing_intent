@@ -3,7 +3,7 @@ version = "1.0-SNAPSHOT"
 
 plugins {
     id("com.android.library")
-    kotlin("android") version "1.8.10"
+    kotlin("android")
 }
 
 android {
